@@ -1,10 +1,8 @@
-# Hello, my name is Tairique Davis  
-<a href="https://www.linkedin.com/in/tairiquedavis/">
-  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+# Hello, my name is <a href="https://www.linkedin.com/in/tairiquedavis/"> <img src="https://img.shields.io/badge/-Tairique Davis-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-##  About Me
-Bachelor of Science in Computer Science with a solid foundation in **programming, networking, and systems**, now channeling that background into a career in cybersecurity.  
-I’m driven by understanding how systems fail, thinking like an attacker, and strengthening defenses through smart detection and response.
+
+##  About Me      
+Bachelor of Science in Computer Science with a solid foundation in **programming, networking, and systems**, now channeling that background into a career in cybersecurity.  I’m driven by understanding how systems fail, thinking like an attacker, and strengthening defenses through smart detection and response.
 
 ---
 
