@@ -2,8 +2,8 @@
 <a href="https://www.linkedin.com/in/tairiquedavis/">
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-I’m a recent Computer Science graduate with a solid foundation in **programming, networking, and systems**, now channeling that background into a career in cybersecurity.  
+##  About Me
+Bachelor of Science in Computer Science with a solid foundation in **programming, networking, and systems**, now channeling that background into a career in cybersecurity.  
 I’m driven by understanding how systems fail, thinking like an attacker, and strengthening defenses through smart detection and response.
 
 ---
@@ -11,9 +11,9 @@ I’m driven by understanding how systems fail, thinking like an attacker, and s
 ##  Objective
 
 My goal is to build a cybersecurity career focused on **threat analysis**, **incident response**, and **vulnerability management**.  
-I’m currently seeking opportunities to join a **Security Operations Center (SOC)** as a **Tier 1 Analyst**, where I can apply my technical skills, analytical mindset, and attention to detail to protect the **confidentiality, integrity, and availability** of critical systems.
+I’m currently seeking opportunities where I can apply my technical skills, analytical mindset, and attention to detail to protect the **confidentiality, integrity, and availability** of critical systems.
 
-I’m actively expanding my skills through hands-on labs, guided projects, and certifications — continuously updating this portfolio as I grow.
+I’m actively leveling up my skillset through hands-on labs, guided projects, and certifications.
 
 ---
 
