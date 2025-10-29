@@ -51,4 +51,4 @@ I’m actively expanding my skills through hands-on labs, guided projects, and c
 ---
 
 ## 💻 Projects
-*(Coming soon — stay tuned for updates as I build hands-on cybersecurity projects and case studies.)*
+*(Coming soon)*
