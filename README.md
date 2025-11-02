@@ -43,6 +43,7 @@ I’m actively leveling up my skillset through hands-on labs, guided projects, a
 ---
 ## Currently Learning
 - Google Cybersecurity Certificate Course
+- TryHackMe Pre-Security Path
 - Linux fundamentals and shell scripting  
 - Automation with Python
 
