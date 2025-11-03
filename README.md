@@ -19,7 +19,7 @@ I’m actively leveling up my skillset through hands-on labs, guided projects, a
 
 | Skill | Associated Project |
 |-------|--------------------|
-| *(To be updated as projects are added)* | |
+| Virtualization | [Ubuntu VM Security Guide](https://github.com/tairique-davis/ubuntu-vm-security-guide) |
 
 ---
 
@@ -50,4 +50,4 @@ I’m actively leveling up my skillset through hands-on labs, guided projects, a
 ---
 
 ## 💻 Projects
-*(Coming soon)*
+ [Ubuntu VM Security Guide](https://github.com/tairique-davis/ubuntu-vm-security-guide)
