@@ -14,7 +14,7 @@ Currently growing my skills through hands-on labs, guided projects, and certific
 
 ## Featured Projects
 
-### [Ubuntu VM Security Lab Guide](https://github.com/tairique-davis/ubuntu-vm-security-guide)
+### [Secure Ubuntu Virtual Machine Lab Setup Guide](https://github.com/tairique-davis/ubuntu-vm-security-guide)
 --------------------------------------
 
 A step-by-step guide to setting up a secure Ubuntu environment for learning Linux security and practicing system hardening.  
