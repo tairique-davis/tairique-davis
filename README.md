@@ -1,6 +1,6 @@
 # Hi, I'm [Tairique Davis](https://www.linkedin.com/in/tairiquedavis) 👋
 
-Actively seeking entry-level roles in SOC analysis, cybersecurity operations, or IT security support.
+Actively seeking entry-level roles in SOC analysis, cybersecurity operations, or Governance & Risk Compliance.
 
 ---
 
@@ -32,7 +32,29 @@ A step-by-step guide to setting up a secure Ubuntu environment for learning Linu
 
 ---
 
+## Hands-On Labs & Practical Experience
+
+### TryHackMe – Risk Management & Incident Response Labs  
+Completed guided labs focused on applying governance, risk, and incident response frameworks in practical scenarios.
+
+**Key Takeaways:**  
+- Performed **risk analysis & risk assessments** using standardized methodologies.  
+- Practiced mapping **NIST SP 800-53 access controls** and understanding their security objectives.  
+- Applied the **NIST Cybersecurity Framework (CSF)** to identify, protect, detect, respond, and recover.  
+- Worked through the phases of **NIST SP 800-61 Incident Response**, including preparation, detection, analysis, containment, and recovery.  
+
+---
+
 ## 💻 Technical Skills & Tools
+
+### Governance, Risk & Compliance (GRC)
+<div style="display: flex; flex-wrap: wrap; gap: 8px;">
+    <img src="https://img.shields.io/badge/Risk%20Analysis-6A5ACD?style=flat-square" /> 
+    <img src="https://img.shields.io/badge/Risk%20Assessment-483D8B?style=flat-square" /> 
+    <img src="https://img.shields.io/badge/NIST%20SP%20800--53%20Access%20Controls-2F4F4F?style=flat-square" /> 
+    <img src="https://img.shields.io/badge/NIST%20CSF-556B2F?style=flat-square" />
+    <img src="https://img.shields.io/badge/NIST%20SP%20800--61%20Incident%20Response-8B0000?style=flat-square" />
+</div>
 
 ### Networking & Security
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
@@ -73,6 +95,5 @@ A step-by-step guide to setting up a secure Ubuntu environment for learning Linu
 - Google Cybersecurity Certificate Course  
 - TryHackMe Intro to Cybersecurity 101 Path  
 - Automation with Python
-
 ---
 
