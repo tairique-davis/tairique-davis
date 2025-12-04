@@ -94,6 +94,6 @@ Completed guided labs focused on applying governance, risk, and incident respons
 ## Currently Learning
 - Google Cybersecurity Certificate Course  
 - TryHackMe Intro to Cybersecurity 101 Path  
-- Automation with Python
+- TryHackMe Advent of Cyber 2025
 ---
 
