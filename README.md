@@ -59,6 +59,7 @@ Completed guided labs focused on applying governance, risk, and incident respons
 ### Networking & Security
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/tcpdump-000000?style=flat-square&logo=tcpdump&logoColor=white" />
     <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
 </div>
 
