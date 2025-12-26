@@ -83,18 +83,16 @@ Completed guided labs focused on applying governance, risk, and incident respons
 </div>
 
 ---
-## Certifications (In Progress)
+## Certifications 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-ISC2%20CC-00A67E?&style=for-the-badge&logo=ISC2&logoColor=white" />
-     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   <!-- <img src="https://img.shields.io/badge/-ISC2%20CC-00A67E?&style=for-the-badge&logo=ISC2&logoColor=white" /> -->
+    <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 </div>
 
 ---
 
 ## Currently Learning
-- Google Cybersecurity Certificate Course  
 - TryHackMe Intro to Cybersecurity 101 Path  
-- TryHackMe Advent of Cyber 2025
 ---
 
