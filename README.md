@@ -1,11 +1,8 @@
 # Hi, I'm [Tairique Davis](https://www.linkedin.com/in/tairiquedavis) 👋
 
-Actively seeking entry-level roles in SOC analysis, cybersecurity operations, or Governance & Risk Compliance.
-
 ---
 
 ## About Me
-Bachelor of Science in Computer Science with a strong foundation in programming, networking, and systems.  
 I’m passionate about cybersecurity, understanding system weaknesses, and applying attacker mindset strategies to strengthen defenses.  
 
 Currently growing my skills through hands-on labs, guided projects, and certifications to build a career in **threat analysis, incident response, and vulnerability management**.
