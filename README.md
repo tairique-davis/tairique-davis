@@ -83,7 +83,7 @@ Completed guided labs focused on applying governance, risk, and incident respons
 ## Certifications 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
     <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-   <!-- <img src="https://img.shields.io/badge/-ISC2%20CC-00A67E?&style=for-the-badge&logo=ISC2&logoColor=white" /> -->
+   <img src="https://img.shields.io/badge/-ISC2%20CC-00A67E?&style=for-the-badge&logo=ISC2&logoColor=white" />
     <!-- <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 </div>
 
