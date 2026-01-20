@@ -91,6 +91,7 @@ Completed guided labs focused on applying governance, risk, and incident respons
 ---
 
 ## Currently Learning
+- Security+ Prep
 - TryHackMe Intro to Cybersecurity 101 Path  
 ---
 
