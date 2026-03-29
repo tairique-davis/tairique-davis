@@ -15,6 +15,7 @@ Currently specializing toward **Cloud Security** and **Identity & Access Managem
 | Repo | Description |
 |------|-------------|
 | [ubuntu-vm-lab-guide](https://github.com/tairique-davis/ubuntu-vm-lab-guide) | Guided instructions for creating and securing an Ubuntu virtual lab.|
+| [offsec-homelab-setup](https://github.com/tairique-davis/offsec-homelab-setup)| Guided instructions for building an isolated attacker/target lab environment with Kali and Windows VMs|
 | [tryhackme-writeups](https://github.com/tairique-davis/tryhackme-writeups) | Documented walkthroughs and notes from TryHackMe rooms I've completed. |
 | [personal-finance-management-system](https://github.com/tairique-davis/personal-finance-management-system) | Full stack web app using React. |
 
