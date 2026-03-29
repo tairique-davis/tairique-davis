@@ -14,8 +14,8 @@ Currently specializing toward **Cloud Security** and **Identity & Access Managem
 
 | Repo | Description |
 |------|-------------|
-| [ubuntu-vm-security-guide](https://github.com/tairique-davis/ubuntu-vm-lab-guide) | Step-by-step instructions for creating and securing an Ubuntu 24.04 virtual lab. |
-| [personal-finance-management-system](https://github.com/tairique-davis/personal-finance-management-system) | Full stack web app using React |
+| [ubuntu-vm-security-guide](https://github.com/tairique-davis/ubuntu-vm-lab-guide) | Guided instructions for creating and securing an Ubuntu virtual lab. |
+| [personal-finance-management-system](https://github.com/tairique-davis/personal-finance-management-system) | Full stack web app using React. |
 | [tryhackme-writeups](https://github.com/tairique-davis/tryhackme-writeups) | Documented walkthroughs and notes from TryHackMe rooms I've completed. |
 
 ---
