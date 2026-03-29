@@ -92,8 +92,9 @@ Currently specializing toward **Cloud Security** and **Identity & Access Managem
 ---
 
 ## Currently Learning
+- Phishing Credential Harvesting Simulation Project (In Progress)
 - TryHackMe Intro to Cybersecurity 101 Path
-- AZ-104 Prep
-- Phishing Credential Harvesting Simulation Project
+- AZ-104: Microsoft Azure Administrator 
+- SC-300: Microsoft Identity and Access Administrator
 ---
 
