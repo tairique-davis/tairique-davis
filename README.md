@@ -22,60 +22,60 @@ Currently specializing toward **Cloud Security** and **Identity & Access Managem
 
 ## 💻 Technical Skills & Tools
 
+
 ### System Administration & Identity
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/RBAC-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Intune-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/RBAC-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM & Security Operations
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=flat-square&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/DefenseStorm-1A1A2E?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/Abnormal%20AI-6A0DAD?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/DefenseStorm-1A1A2E?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Abnormal%20AI-6A0DAD?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Governance, Risk & Compliance (GRC)
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/Risk%20Analysis-6A5ACD?style=flat-square" />
-    <img src="https://img.shields.io/badge/Risk%20Assessment-483D8B?style=flat-square" />
-    <img src="https://img.shields.io/badge/NIST%20SP%20800--53-2F4F4F?style=flat-square" />
-    <img src="https://img.shields.io/badge/NIST%20CSF-556B2F?style=flat-square" />
-    <img src="https://img.shields.io/badge/NIST%20SP%20800--61-8B0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Risk%20Analysis-6A5ACD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Risk%20Assessment-483D8B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST%20SP%20800--53-2F4F4F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST%20CSF-556B2F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/NIST%20SP%20800--61-8B0000?style=for-the-badge" />
 </div>
 
 ### Traffic Analysis
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/tcpdump-000000?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/tcpdump-000000?style=for-the-badge&logoColor=white" />
 </div>
 
 ### Offensive Security Tooling
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/nmap-0E83CD?style=flat-square&logoColor=white" />
-    <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=Metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/nmap-0E83CD?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ### Command Line Interfaces
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" />
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU%20Bash&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows%20CMD-000000?style=flat-square&logo=Windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows%20CMD-000000?style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 ### Virtualization
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
 </div>
 
 ### Programming & Query Languages
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=Microsoft&logoColor=white" /> --> 
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white" />
 </div>
 
 ---
