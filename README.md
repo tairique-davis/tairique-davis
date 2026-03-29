@@ -10,33 +10,13 @@ Currently specializing toward **Cloud Security** and **Identity & Access Managem
 
 ---
 
-## Featured Projects
+## Projects & Labs
 
-### [Secure Ubuntu Virtual Machine Lab Setup Guide](https://github.com/tairique-davis/ubuntu-vm-security-guide)
-
-A step-by-step guide to setting up a secure Ubuntu environment for learning Linux security and practicing system hardening.  
-**Highlights:** Configured SSH, UFW firewall, snapshots, and implemented foundational Linux security best practices.
-
-| Category           | Tools / Technologies                               |
-|-------------------|-----------------------------------------------------|
-| Virtualization     | VirtualBox                                          |
-| Operating System   | Ubuntu 24.04, Linux CLI                             |
-| Scripting          | Bash                                                |
-| Remote Access      | SSH                                                 |
-| Security           | UFW Firewall, System Hardening, Snapshots           |
-
----
-
-## Hands-On Labs & Practical Experience
-
-### TryHackMe – Risk Management & Incident Response Labs
-Completed guided labs focused on applying governance, risk, and incident response frameworks in practical scenarios.
-
-**Key Takeaways:**
-- Performed **risk analysis & risk assessments** using standardized methodologies
-- Practiced mapping **NIST SP 800-53 access controls** and understanding their security objectives
-- Applied the **NIST Cybersecurity Framework (CSF)** to identify, protect, detect, respond, and recover
-- Worked through the phases of **NIST SP 800-61 Incident Response**, including preparation, detection, analysis, containment, and recovery
+| Repo | Description |
+|------|-------------|
+| [ubuntu-vm-security-guide](https://github.com/tairique-davis/ubuntu-vm-lab-guide) | Step-by-step instructions for creating and securing an Ubuntu 24.04 virtual lab. |
+| [personal-finance-management-system](https://github.com/tairique-davis/personal-finance-management-system) | Full stack web app using React |
+| [tryhackme-writeups](https://github.com/tairique-davis/tryhackme-writeups) | Documented walkthroughs and notes from TryHackMe rooms I've completed. |
 
 ---
 
