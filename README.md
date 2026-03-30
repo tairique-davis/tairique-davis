@@ -6,7 +6,7 @@
 
 Cybersecurity Analyst with hands-on experience in identity governance, incident response, and security operations within a financial services environment. I work daily with enterprise Microsoft security tooling and a cloud-first infrastructure.
 
-Currently specializing toward **Cloud Security** and **Identity & Access Management (IAM)**, with a focus on Azure and Microsoft's security stack.
+Currently specializing toward Cloud Security and Identity & Access Management (IAM), with a focus on Azure and Microsoft's security stack.
 
 ---
 
